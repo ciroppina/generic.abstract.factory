@@ -1,0 +1,12 @@
+ciroppina\generic\factory\impl\PlayWithLongs.class
+ciroppina\generic\factory\GenericFactory$1.class
+ciroppina\generic\factory\NumberType.class
+ciroppina\generic\factory\SimpleMainApp.class
+ciroppina\generic\factory\interfaces\GenericInterfaceAbstractImpl.class
+ciroppina\generic\factory\impl\PlayWithShorts.class
+ciroppina\generic\factory\interfaces\GenericInterface.class
+ciroppina\generic\factory\impl\PlayWithDoubles.class
+ciroppina\generic\factory\Application.class
+ciroppina\generic\factory\impl\PlayWithIntegers.class
+ciroppina\generic\factory\GenericFactory.class
+ciroppina\generic\factory\interfaces\AbstractFactoryInterface.class
