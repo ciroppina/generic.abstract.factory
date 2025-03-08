@@ -1,0 +1,20 @@
+# spring
+spring:
+  # profiles
+  profiles:
+    active: local
+# framework
+framework:
+  # swagger
+  swagger:
+    base-package: ciroppina.generic.factory.web.controller
+# log
+logging:
+  config: classpath:config/logback-spring.xml
+  level:
+    root: debug
+    ciroppina.generic.factory: debug
+# mybatis plus
+#mybatis-plus:
+#  type-aliases-package: ciroppina.generic.factory.entity,ciroppina.generic.factory.*
+#  mapper-locations: classpath:mappers/*Mapper.xml
