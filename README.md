@@ -3,8 +3,8 @@
 * review the [JDK Version Range](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions#jdk-version-range) on the wiki for more details.
 
 # Getting Started
-* build: ./mvnw[.cmmd] clean install [-DskipTests]
-* run:   ./mvnw[.cmmd] clean install spring-boot:run [-DskipTests]
+* build: ./mvnw[.cmd] clean install [-DskipTests]
+* run:   ./mvnw[.cmd] clean install spring-boot:run [-DskipTests]
 * debug with Eclipse: use 'SimpleMainApp.java', Debug As: Java Application
 
 ### Documentation
